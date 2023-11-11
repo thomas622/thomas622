@@ -1,6 +1,9 @@
-## Hi, i'm Thomas Medeiros
+## 👋 Hi, i'm Thomas Medeiros
+ <img width="800px" height="300px" src="https://i.pinimg.com/originals/37/58/b9/3758b928e490d75388589dbaa5ec578a.gif">
 
-
+## 🧑 About me:
+Hey there, welcome!
+I'm Thomas Medeiros, a Back-End enthusiast currently studying and developing skills in back-end development from Rio Grande do Norte, Brasil.
 - 🔭 I’m currently working on SME - Parnamirim
 - 🌱 I’m currently learning Java
 - 💬 Ask me about anything
